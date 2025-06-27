@@ -10,10 +10,8 @@
 
 - 🌱 I’m currently learning **Spring Boot + React**
 
-- 💬 Ask me about **java**
-
-- 📫 How to reach me: me@henriquesouza.dev
-
+- 💬 Ask me about **Python**
+  
 ---
 
 ### Languages and Tools:
