@@ -8,7 +8,7 @@
 
 - 🎓 Student Software Engineering at [Unijorge](https://www.unijorge.edu.br)
 
-- 🌱 I’m currently learning **Spring Boot + React**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **Python**
   
