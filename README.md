@@ -6,7 +6,7 @@
 
 - 👨‍💻 Exploring new technologies and developing software solutions.
 
-- 🎓 Student Software Engineering at [Unijorge](https://www.unijorge.edu.br)
+- 🎓 Student Software Engineering at [UCSAL](https://www.ucsal.br/)
 
 - 🌱 I’m currently learning **Node.js**
 
