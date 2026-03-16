@@ -8,8 +8,6 @@
 
 - 🎓 Student Software Engineering at [UCSAL](https://www.ucsal.br/)
 
-- 🌱 I’m currently learning **Node.js**
-
 - 💬 Ask me about **Python**
   
 ---
