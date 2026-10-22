@@ -1,16 +1,40 @@
-# Hi 👋, I'm Henrique Souza
+<p align="center">
+  <img src="assets/profile.svg" alt="Nissan GT-R R35 em pixel art numa estrada de Tóquio à noite, com HUD de corrida e ficha técnica da stack" width="100%" />
+</p>
+
+<br>
 
 ---
 
-🚀 **About me**
+<h3 align="center">Tecnologias e Ferramentas</h3>
 
-- 👨‍💻 Exploring new technologies and developing software solutions.
+<p align="center">
+  <img src="assets/tech-stack.svg" alt="Tecnologias agrupadas por categoria" />
+</p>
 
-- 🎓 Student Software Engineering at [UCSAL](https://www.ucsal.br/)
+<br>
 
-- 💬 Ask me about **Python**
-  
 ---
 
-### Languages and Tools:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<h3 align="center">Contribuições</h3>
+
+<p align="center">
+  <img src="assets/contributions.png" alt="Gráfico isométrico de contribuições no GitHub" width="100%" />
+  <br>
+  <img src="assets/private-contributions.svg" alt="Contribuições feitas em repositórios privados" />
+</p>
+
+<br>
+
+---
+
+<h3 align="center">Contato</h3>
+
+<p align="center">
+  <a href="https://github.com/HenriqueSZ5">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:spaulohenrique511@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
+  </a>
+</p>
