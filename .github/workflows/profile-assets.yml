@@ -46,13 +46,13 @@ jobs:
       - name: Generate animated profile card
         env:
           GITHUB_LOGIN: HenriqueSZ5
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
           OUT_PATH: assets/profile.svg
         run: python scripts/generate_card.py
       - name: Generate contributions graph
         env:
           GITHUB_LOGIN: HenriqueSZ5
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
           ISOMETRIC_DIR: .isometric
           OUT_DIR: assets
         run: node scripts/generate_contributions.mjs
