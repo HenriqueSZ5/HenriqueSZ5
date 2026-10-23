@@ -31,10 +31,7 @@
 <h3 align="center">Contato</h3>
 
 <p align="center">
-  <a href="https://github.com/HenriqueSZ5">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:spaulohenrique511@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
-  </a>
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
+  <br>
+  <code>spaulohenrique411@gmail.com</code>
 </p>
